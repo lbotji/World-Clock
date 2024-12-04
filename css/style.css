@@ -13,6 +13,7 @@ body {
   margin: 60px 0;
   border-radius: 10px;
   background: white;
+  
 }
 
 select {
@@ -47,7 +48,18 @@ h1 {
 }
 
 .dates {
-  color: rgb(55, 82, 156);
+  position: relative;
+  top: 60px;
+  right: 128px;
+  opacity: 0.7;
+  font-weight: bold;
+
+}
+
+.date {
+  position: relative;
+  top: 60px;
+  right: 108px;
   opacity: 0.7;
   font-weight: bold;
   
