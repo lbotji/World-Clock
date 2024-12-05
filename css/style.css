@@ -5,6 +5,12 @@ body {
 
 }
 
+h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+}
+
 .container {
   max-width: 600px;
   margin: 0 auto;
@@ -24,13 +30,6 @@ select {
   font-weight: bold;
 
 }
-
-h1 {
-  text-align: center;
-  font-size: 36px;
-  font-weight: bold;
-}
-
 
 .city {
   display: flex;
@@ -55,15 +54,16 @@ h1 {
 .time {
   font-size: 48px;
   font-weight: bold;
-  padding:20px
 }
 
 .time small {
   font-size: 18px;
   vertical-align: middle;
+
 }
 
 
 footer {
   text-align: center;
+  font-size: 18px;
 }
