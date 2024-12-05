@@ -59,6 +59,7 @@ select {
 .time small {
   font-size: 18px;
   vertical-align: middle;
+  line-height: 36px;
 
 }
 
@@ -66,4 +67,20 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
+  color: rgb(8, 8, 8);
+}
+
+.botji {
+color: rgb(87, 1, 48);
+font-weight: bold;
+}
+
+.github {
+  color: rgb(7, 0, 109);
+  font-weight: bold;
+}
+
+.netlify {
+  color: rgb(67, 126, 0);
+  font-weight: bold;
 }
